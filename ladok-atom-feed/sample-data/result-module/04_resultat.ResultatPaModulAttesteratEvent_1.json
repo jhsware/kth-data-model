@@ -1,0 +1,50 @@
+{
+  "_id": {
+    "$oid": "66e180c791291dc308e4f04c"
+  },
+  "id": "29642f46-2db4-42fc-8437-1681d73a18f2",
+  "ladok3EventType": "se.ladok.schemas.resultat.ResultatPaModulAttesteratEvent",
+  "ladok3Username": "mrhesa@kth.se",
+  "userProperties": {
+    "ladok3AtomEntryId": "10979569-7032-11ef-8af3-d33a9e034787",
+    "ladok3Username": "mrhesa@kth.se",
+    "ladok3IsLastFeed": true,
+    "ladok3AtomFeed": "https://api.ladok.se:443/uppfoljning/feed/329743",
+    "content_HYPHEN_Type": "application/json",
+    "ladok3AtomEntryUpdated": "2024-09-11T13:36:18.632",
+    "ladok3EventType": "se.ladok.schemas.resultat.ResultatPaModulAttesteratEvent",
+    "traceparent": "00-36748820e4ebf65fab6567812a600192-772c4d8ff0d957c3-01",
+    "ladok3AtomEntryIndexInFeed": 1,
+    "ladok3EventId": "0fba5543-7032-11ef-b504-ebacc3de4099",
+    "ladok3MessageType": "ladok3Event",
+    "ladok3MessageSequenceNumber": 87797
+  },
+  "message": {
+    "HandelseUID": "0fba5543-7032-11ef-b504-ebacc3de4099",
+    "EventContext": {
+      "AnvandareUID": "4f781a37-7465-11e8-9f6f-3f1455794c36",
+      "Anvandarnamn": "mrhesa@kth.se",
+      "LarosateID": 29
+    },
+    "Beslut": {
+      "BeslutUID": "4f781a37-7465-11e8-9f6f-3f1455794c36",
+      "Beslutsdatum": "2024-09-11",
+      "Beslutsfattare": "Mohammad Reza Hesamzadeh",
+      "BeslutsfattareUID": "4f781a37-7465-11e8-9f6f-3f1455794c36"
+    },
+    "KursUID": "423dda76-73d8-11e8-afa7-8e408e694e54",
+    "KursinstansUID": "ead707b3-dc38-11e8-ba80-894fc53b4dc9",
+    "KurstillfalleUID": "c8bb7e0b-6c99-11ed-9470-2f1215a843e7",
+    "Resultat": {
+      "BetygsgradID": 131691,
+      "BetygsskalaID": 131657,
+      "Examinationsdatum": "2024-08-29",
+      "GiltigSomSlutbetyg": true,
+      "OmfattningsPoang": 7.5,
+      "PrestationsPoang": 7.5,
+      "ResultatUID": "0fba5540-7032-11ef-b504-ebacc3de4099"
+    },
+    "StudentUID": "954221da-d24f-11ea-a4db-82cca4dd4b3e",
+    "UtbildningsinstansUID": "4236aebc-73d8-11e8-b4e0-063f9afb40e3"
+  }
+}

@@ -4,7 +4,7 @@ WIP: Just a sketch
 ### Studiedeltagande
 ```mermaid
 erDiagram
-    KurspaketeringsDeltagande
+    KurspaketeringsDeltagandeForTheWin
     KurstillfallesDeltagande
     AktivitetstillfallesDeltagande
 ```
